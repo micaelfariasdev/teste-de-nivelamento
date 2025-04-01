@@ -1,0 +1,36 @@
+{
+	"info": {
+		"_postman_id": "56a015e6-cb4b-4e19-bdb8-85751dd969c3",
+		"name": "Teste de API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "43667505",
+		"_collection_link": "https://micaelfarias.postman.co/workspace/Micael-Farias's-Workspace~32dc1d56-94d1-4fe5-8b7a-773dea89ad7d/collection/43667505-56a015e6-cb4b-4e19-bdb8-85751dd969c3?action=share&source=collection_link&creator=43667505"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/buscar_operadora?q=claro",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"buscar_operadora"
+					],
+					"query": [
+						{
+							"key": "q",
+							"value": "claro"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
