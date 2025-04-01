@@ -1,10 +1,16 @@
-<script setup>
-import index from './components/index.vue';
-</script>
-
 <template>
-  <index/>
+  <div>
+    <h1>Busca de Operadoras</h1>
+    <BuscarOperadora />
+  </div>
 </template>
 
-<style scoped>
-</style>
+<script>
+import BuscarOperadora from "./components/index.vue";
+
+export default {
+  components: {
+    BuscarOperadora,
+  },
+};
+</script>
