@@ -91,4 +91,4 @@ Este repositório é confidencial e não deve ser compartilhado sem autorizaçã
 - [Meu LinkedIn](https://www.linkedin.com/in/micaelfariasdev/)
 
 ---
-Desenvolvido por *[Micael Farias]*
+Desenvolvido por *Micael Farias*
